@@ -8,6 +8,7 @@
   background-color: lightblue;
   color: green;
   display: flex;
+  text-align: center;
 }
 
 .row{
