@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  height: 100vh;
+  background-color: lightblue;
+  color: green;
+  display: flex;
+}
+
+.row{
+  margin: auto;
+}
