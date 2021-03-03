@@ -20,4 +20,7 @@ if (minorenni) {
 }else if (old) {
   console.log(costoOld);
   document.getElementById('biglietto').innerHTML = "Il biglietto costa: " + costoOldFix + "€";
+}else {
+  console.log(costo);
+  document.getElementById('biglietto').innerHTML = "Il biglietto costa: " + costo + "€";
 }
